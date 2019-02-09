@@ -1,7 +1,7 @@
 {
   "name": "webpack-single-build-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Webpack template project for frontend.",
   "main": "index.js",
   "babel": {
     "presets": [
